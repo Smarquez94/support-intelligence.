@@ -1,4 +1,4 @@
-[README_1.md](https://github.com/user-attachments/files/31431045/README_1.md)
+[README.md](https://github.com/user-attachments/files/31431045/README_1.md)
 # Support Intelligence Platform
 
 > AI-powered support analytics and automation platform built for **FX Replay** — a trading education and backtesting company.
