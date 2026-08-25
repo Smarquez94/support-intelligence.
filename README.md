@@ -97,4 +97,4 @@ This is a proprietary internal tool built for FX Replay. The repository showcase
 
 **Sebastian Marquez** — Support & Automation Specialist
 
-[LinkedIn]([www.linkedin.com/in/sebastian-marquez-77a9043a7](https://linkedin.com/in/sebastianmarquez94)) · Bogota, Colombia
+[LinkedIn](https://linkedin.com/in/sebastianmarquez94) · Bogota, Colombia
